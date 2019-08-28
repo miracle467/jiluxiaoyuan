@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/project/project",
+    "pages/mine/mine",
+    "pages/list/list",
+    "pages/detail/detail",
+    "pages/add/add",
+    "pages/calendar/calendar",
+    "pages/records/records",
+    "pages/about/about",
+    "pages/schedule/schedule",
+    "pages/dt/dt",
+    "pages/gj/gj",
+    "pages/tu/tu",
+    "pages/kb/kb",
+    "pages/xiaoxi/xiaoxi",
+    "pages/xingxi/xingxi",
+    "pages/addCourse/addCourse"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "0874b2",
+    "navigationBarTitleText": "迹路校园",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#202021"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "0874b2",
+    "list": [
+      {
+        "pagePath": "pages/dt/dt",
+        "text": "轨迹",
+        "iconPath": "/img/guiji.png",
+        "selectedIconPath": "/img/guiji1.png"
+      },
+      {
+      
+        "pagePath": "pages/project/project",
+        "text": "校园助手",
+        "iconPath": "/img/xy.png",
+        "selectedIconPath": "/img/xy1.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "/img/me.png",
+        "selectedIconPath": "/img/me1.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

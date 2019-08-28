@@ -15,8 +15,5 @@
 ![模式](https://raw.githubusercontent.com/yangzaiwangzi/KM-MiniProgram/master/readMeImg/rilimoshi.gif)<br><br>
 个人中心的效果图：<br><br>
 ![个人中心](https://raw.githubusercontent.com/yangzaiwangzi/KM-MiniProgram/master/readMeImg/wode.gif)<br><br>
-开发基本完成，效果和预期的一样，测试没有问题后，开始向微信官方发布...<br><br>
-![结果](https://raw.githubusercontent.com/yangzaiwangzi/KM-MiniProgram/master/readMeImg/jieguo.png)<br><br>
-没办法，只有放弃发布了，就拿出来，当作自己体验开发小程序的一次经验吧...<br>
 有问题可以Issuess我...<br>
 感觉还行给个Star...

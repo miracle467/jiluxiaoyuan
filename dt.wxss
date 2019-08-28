@@ -1,0 +1,46 @@
+.map_container{ 
+  position: relative;
+    height: 100vh; 
+    width: 100%; 
+} 
+
+.map { 
+    height: 100%; 
+    width: 100%; 
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+   bottom: 0;
+    z-index: 1;
+} 
+.layout_horizontal{
+  height: 100rpx;
+  display: flex;
+  /*row 横向  column 列表  */
+  flex-direction: row;
+}
+
+.s{
+  position: absolute;
+  left: 50rpx;
+  bottom: 100rpx;
+  height:9%; 
+  width: 15%;
+}
+
+.ss{
+  position: absolute;
+  left: 300rpx;
+  bottom: 100rpx;
+  height:13%; 
+  width: 20%;
+}
+.sss{
+  position: absolute;
+  left: 600rpx;
+  bottom: 100rpx;
+  height:9%; 
+  width: 15%;
+}
+

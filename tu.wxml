@@ -1,0 +1,12 @@
+<view class="map_container"> 
+  <map class="map" id="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="15" show-location="true" markers="{{markers}}" polyline="{{polyline}}" bindmarkertap="makertap"></map> 
+
+
+<view class="layout_horizontal">
+  <button class="btn" style="flex:1" bindtap="start" >开始</button> 
+  <button class="btn" style="flex:1" bindtap="end" >结束</button>
+</view>
+
+</view> 
+
+

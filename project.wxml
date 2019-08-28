@@ -1,0 +1,9 @@
+<view class="container">   
+	
+  <navigator url="/pages/calendar/calendar" hover-class="navigator-hover" class="project_item" >备忘录</navigator> 
+</view>
+<view class="container">   
+	
+  <navigator url="/pages/schedule/schedule" hover-class="navigator-hover" class="project_item">课表</navigator> 
+</view>
+ 

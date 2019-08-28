@@ -1,0 +1,25 @@
+.map_container{ 
+    height: 1300rpx; 
+    width: 100%; 
+} 
+
+.map { 
+    height:95%;
+    width: 100%; 
+} 
+.layout_horizontal{
+  
+  height: 100rpx;
+  display: flex;
+  /*row 横向  column 列表  */
+  flex-direction: row;
+  text-align: center
+}
+.btn {
+ 
+  width: 90%;
+  
+  margin-top: 0rpx;
+  background-color: #0874b2;
+  color: #FFF;
+}

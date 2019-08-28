@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">  
+  <image src="/img/logo1.jpg" mode="widthFix"></image>
+  <view class="txt">
+    <view><text>R</text>ecord <text>T</text>rajectory</view>
+    <view class="two_txt"><text>R</text>ecord <text>S</text>tudy life</view>
+  </view> 
+  <view class="txt">
+    <view class="two_txt1">迹路校园</view>
+    <view class="two_txt2">记录你的校园生活</view>
+  </view>  
+  <view bindtap="goProject" class="gobtn">开始</view>  
+</view>

@@ -1,0 +1,6 @@
+<view class="txt">暂无系统消息</view>
+<form bindsubmit="form" report-submit='true' >
+<button form-type="submit" class='xx'>
+<text>123</text>
+</button>
+</form>

@@ -1,0 +1,15 @@
+                                                                                                
+<view class="map_container"> 
+  <map class="map" id="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="16" show-location="true" markers="{{markers}}" bindmarkertap="makertap">     
+        <cover-image  class="s"src="/img/chakan.png" bindtap="toast" > </cover-image>
+        <cover-image wx:if="{{xuanz}}" class="ss" src="/img/kaishi.png"  catchtap='dianji'> </cover-image>
+         <cover-image   wx:else catchtap='zanting' class="ss" src="/img/zanting.png" > </cover-image>
+        <cover-image class="sss" src="/img/fenxi.png" bindtap="toast1" > </cover-image>
+ 
+  </map> 
+</view> 
+             
+
+
+
+

@@ -1,0 +1,21 @@
+
+<view class='wrapper'>
+  <view class='top'>
+    <view class='logo'>
+      <image src='/img/ic_login_logo.png'></image>
+    </view>
+
+    <form class='form' bindsubmit='commit'>
+      <view>
+        <input name='school' placeholder='学校' focus>{{school}}</input>
+        <input name='institute' placeholder='学院' >{{institute}}</input>
+        <input name='grade' placeholder='年级' >{{grad}}</input>
+        <input name='number' placeholder='学号' >{{number}}</input>
+        <input name='name' placeholder='姓名' >{{name}}</input>
+      </view>
+      
+      <button class='save' bindtap="submit">保存</button>
+    </form>
+  </view>
+  <view class='footer'>迹路校园</view>
+</view>
